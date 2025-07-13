@@ -32,7 +32,7 @@ const Navbar = () => {
             </Link>
 
             {/* Desktop Navigation */}
-            <div className="hidden md:flex items-center space-x-8">
+            <div className="hidden md:flex items-center space-x-8 ml-3 pl-3">
               <Link to="/browse" className="text-gray-700 hover:text-purple-600 font-medium transition-colors">
                 Browse Services
               </Link>
