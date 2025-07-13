@@ -61,14 +61,14 @@ const Navbar = () => {
 
             {/* Desktop Auth Buttons */}
             <div className="hidden md:flex items-center space-x-4">
-              <Button variant="ghost" className="text-gray-700 hover:text-purple-600">
+{/*               <Button variant="ghost" className="text-gray-700 hover:text-purple-600">
                 <Bell className="h-4 w-4 mr-2" />
                 Notifications
-              </Button>
-              <Button variant="ghost" className="text-gray-700 hover:text-purple-600">
+              </Button> */}
+{/*               <Button variant="ghost" className="text-gray-700 hover:text-purple-600">
                 <User className="h-4 w-4 mr-2" />
                 Profile
-              </Button>
+              </Button> */}
               <Button 
                 variant="outline" 
                 className="border-purple-200 text-purple-600 hover:bg-purple-50"
